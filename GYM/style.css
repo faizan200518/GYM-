@@ -1,0 +1,23 @@
+body {
+   /* font-family: Arial, sans-serif; */
+   background-color: black;
+   color: white;
+}
+
+h1 {
+   text-align: center;
+   margin-top: 20px;
+}
+
+a {
+   text-decoration: none;
+}
+
+.navbar-brand {
+   display: flex;
+   align-items: center;
+}
+
+.navbar-brand img {
+   margin-right: 10px;
+}
